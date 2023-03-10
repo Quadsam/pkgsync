@@ -1,1 +1,1 @@
-SUBDIRS					= src/json-c src
+SUBDIRS					= src/json-c-build src

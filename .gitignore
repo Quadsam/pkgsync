@@ -49,8 +49,9 @@ m4/lt~obsolete.m4
 # (which is called by configure script))
 Makefile
 
-# Generated OBJ's, ELF's, and test files
+# Generated OBJ's, ELF's, other build directories, and test files
 
 src/*.o
 src/pkgsync
+src/json-c-build
 /packages.json
